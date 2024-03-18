@@ -1,0 +1,7 @@
+D:\Coolyeah\SEMESTER 2\Matkul Pemrograman\Praktikum3\ObjectTaxi1\ObjectTaxi\obj\Debug\ObjectTaxi.csproj.AssemblyReference.cache
+D:\Coolyeah\SEMESTER 2\Matkul Pemrograman\Praktikum3\ObjectTaxi1\ObjectTaxi\obj\Debug\ObjectTaxi.csproj.CoreCompileInputs.cache
+D:\Coolyeah\SEMESTER 2\Matkul Pemrograman\Praktikum3\ObjectTaxi1\ObjectTaxi\bin\Debug\ObjectTaxi.exe.config
+D:\Coolyeah\SEMESTER 2\Matkul Pemrograman\Praktikum3\ObjectTaxi1\ObjectTaxi\bin\Debug\ObjectTaxi.exe
+D:\Coolyeah\SEMESTER 2\Matkul Pemrograman\Praktikum3\ObjectTaxi1\ObjectTaxi\bin\Debug\ObjectTaxi.pdb
+D:\Coolyeah\SEMESTER 2\Matkul Pemrograman\Praktikum3\ObjectTaxi1\ObjectTaxi\obj\Debug\ObjectTaxi.exe
+D:\Coolyeah\SEMESTER 2\Matkul Pemrograman\Praktikum3\ObjectTaxi1\ObjectTaxi\obj\Debug\ObjectTaxi.pdb
